@@ -2,7 +2,7 @@
 
 👋 I’m am Divesh Pandey
 
-💻 I love doing competitive programming and learning new algorithms.
+💻Currently Learning Some new Algorithms.
 
 🌱 I'm exploring different fields in software development and learning new skills.
 
