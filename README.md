@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I am a Passionate Web Developer from India</h1>
 
-👋 I’m am Divesh Pandey
+👋 I’m  Divesh Pandey
 
 💻Currently Learning Some new Algorithms.
 
