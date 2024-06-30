@@ -1,28 +1,57 @@
-<h1 align="center">Hi 👋 I am a Passionate Web Developer from India</h1>
+## About Me
 
-👋 I’m  Divesh Pandey
+<img align="right" height="200" src="https://media1.tenor.com/images/f3625c30deb97e5bed28eb12bf1323a1/tenor.gif?itemid=15100195" />
 
-💻Currently Learning Some new Algorithms.
+I'm Divesh Kumar Pandey, a Full Stack Developer experienced in the MERN stack, currently pursuing my bachelor's degree in Computer Science and Engineering. I'm passionate about building real-world, open-source projects that provide value. My journey in software development is driven by a constant desire to learn and innovate.
 
-🌱 I'm exploring different fields in software development and learning new skills.
+Currently, I'm diving deeper into backend development, exploring various database technologies to optimize data management and performance. I'm also enhancing my algorithmic problem-solving skills to tackle complex challenges more effectively. Alongside, I'm expanding my web development skills, ensuring I stay updated with the latest industry trends and best practices.
 
-⚡ Hobby - Watching anime,Reading Novels
+📫 You can contact me through [Email](mailto:diveshp904@gmail.com).
 
-📫 You can contact me through email - diveshp904@gmail.com
+## Languages and Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divesh1207&show_icons=true&locale=en&layout=compact" alt="divesh1207" /></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=000000&style=for-the-badge" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-Java-000000?logo=Java&logoColor=white&style=for-the-badge" alt="Java"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=ffffff&style=for-the-badge" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=000000&style=for-the-badge" alt="React"/>
+  <img src="https://img.shields.io/badge/-Express.js-000000?logo=Express&logoColor=white&style=for-the-badge" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=Bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=TailwindCSS&logoColor=ffffff&style=for-the-badge" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL&logoColor=ffffff&style=for-the-badge" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=ffffff&style=for-the-badge" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/-Postgres-336791?logo=PostgreSQL&logoColor=ffffff&style=for-the-badge" alt="Postgres"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=ffffff&style=for-the-badge" alt="Node.js"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divesh1207&show_icons=true&locale=en" alt="divesh1207" /></p>
+<details>
+  <summary><strong>Github Stats</strong></summary>
+  <div align="center">
+    <a href="https://github-readme-stats.vercel.app/api?username=divesh1207&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false">
+      <img src="https://github-readme-stats.vercel.app/api?username=divesh1207&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs?username=divesh1207&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divesh1207&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+    </a>
+  </div>
+</details>
 
 
-### My Social Media Handles
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/divesh-pandey-161419218/)
-[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/divesh1207)
+## Connect with Me
 
-### My Coding Profiles
-[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/diveshp904/)
-[<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://auth.geeksforgeeks.org/user/divesh90j5)
-[<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />](https://www.codechef.com/users/divesh_1207)
+<div align="center">
+  <a href="https://www.linkedin.com/in/divesh-pandey-161419218/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/divesh1207" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:diveshp904@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
+</div>
 
+## Coding Profiles
 
+<div align="center">
+  <a href="https://leetcode.com/diveshp904/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/divesh90j5" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+</div>
 
+## Let's Connect
+
+I'm excited to connect with others via [Email](mailto:diveshp904@gmail.com) and [Twitter](https://twitter.com/divesh1207) to chat about projects and ideas. I'm taking on freelance projects and am open to hearing about potential opportunities, discussing them with you, and potentially collaborating if it's a good fit.
