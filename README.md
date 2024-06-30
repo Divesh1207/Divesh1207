@@ -1,6 +1,6 @@
 ## About Me
 
-<img align="right" height="200" src="https://media1.tenor.com/images/f3625c30deb97e5bed28eb12bf1323a1/tenor.gif?itemid=15100195" />
+<img  height="200" src="https://media1.tenor.com/images/f3625c30deb97e5bed28eb12bf1323a1/tenor.gif?itemid=15100195" />
 
 I'm Divesh Kumar Pandey, a Full Stack Developer experienced in the MERN stack, currently pursuing my bachelor's degree in Computer Science and Engineering. I'm passionate about building real-world, open-source projects that provide value. My journey in software development is driven by a constant desire to learn and innovate.
 
