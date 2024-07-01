@@ -49,7 +49,6 @@ Currently, I'm diving deeper into backend development, exploring various databas
 <div align="center">
   <a href="https://leetcode.com/diveshp904/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://auth.geeksforgeeks.org/user/divesh90j5" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-  <a href="https://www.codechef.com/users/divesh_1207" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/></a>
 </div>
 
 ## Let's Connect
