@@ -56,6 +56,7 @@ Currently, I'm diving deeper into backend development, exploring various databas
 
 I'm excited to connect with others via [Email](mailto:diveshp904@gmail.com) and [Twitter](https://twitter.com/divesh1207) to chat about projects and ideas. I'm taking on freelance projects and am open to hearing about potential opportunities, discussing them with you, and potentially collaborating if it's a good fit.
 
-For an interactive experience, explore my profile via CMD:-(https://cmd-iota.vercel.app/)
+For an interactive experience, explore my profile via CMD:-
+(https://cmd-iota.vercel.app/)
 
 
