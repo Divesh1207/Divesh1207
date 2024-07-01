@@ -1,6 +1,6 @@
 ## About Me
 
-<img  height="200" src="https://media1.tenor.com/images/f3625c30deb97e5bed28eb12bf1323a1/tenor.gif?itemid=15100195" />
+<img align="right" height="200" src="https://media1.tenor.com/images/f3625c30deb97e5bed28eb12bf1323a1/tenor.gif?itemid=15100195" />
 
 I'm Divesh Kumar Pandey, a Full Stack Developer experienced in the MERN stack, currently pursuing my bachelor's degree in Computer Science and Engineering. I'm passionate about building real-world, open-source projects that provide value. My journey in software development is driven by a constant desire to learn and innovate.
 
@@ -36,7 +36,6 @@ Currently, I'm diving deeper into backend development, exploring various databas
   </div>
 </details>
 
-
 ## Connect with Me
 
 <div align="center">
@@ -50,8 +49,13 @@ Currently, I'm diving deeper into backend development, exploring various databas
 <div align="center">
   <a href="https://leetcode.com/diveshp904/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://auth.geeksforgeeks.org/user/divesh90j5" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+  <a href="https://www.codechef.com/users/divesh_1207" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/></a>
 </div>
 
 ## Let's Connect
 
 I'm excited to connect with others via [Email](mailto:diveshp904@gmail.com) and [Twitter](https://twitter.com/divesh1207) to chat about projects and ideas. I'm taking on freelance projects and am open to hearing about potential opportunities, discussing them with you, and potentially collaborating if it's a good fit.
+
+For an interactive experience, explore my profile via CMD:-(https://cmd-iota.vercel.app/)
+
+
