@@ -36,7 +36,7 @@ Currently, I'm diving deeper into backend development, exploring various databas
   </div>
 </details>
 
-## Connect with Me
+## Social profiles
 
 <div align="center">
   <a href="https://www.linkedin.com/in/divesh-pandey-161419218/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
